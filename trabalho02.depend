@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1649087072 source:c:\users\larissa\documents\trabalho02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T2.h"
+	<stdbool.h>
+
+1649086094 c:\users\larissa\documents\trabalho02\t2.h
+
+1649088619 source:c:\users\larissa\documents\trabalho02\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T2.h"
+
